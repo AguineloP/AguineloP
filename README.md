@@ -1,33 +1,29 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=38&center=false&lines=Hello!!;Welcome+to+my+profile!;My+name+is+Aguinelo...;I'm+a+Computer+Science+student..."/> 
-<img src="https://external-preview.redd.it/oPDLQXls4_bT3MBWwUl95V7JnYP7YBs7ofHESFM9-Ic.jpg?auto=webp&amp;s=0a1145aa43cfbfc9d9f61be58888645a9feeb7da" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=120&duration=3000&pause=1500&color=E0F2F7&background=FF289200&center=true&vCenter=true&random=false&width=1950&height=110&lines=Hello!!;Welcome+to+my+profile!!;My+name+is+Aguinelo;I'm+pursuing+my+bachelor's+degree;My+field+of+study+is+Computer+Science" alt="Typing SVG" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-### <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px align="center"> About me
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="45px" style="margin-right: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=40&duration=1&pause=1&color=E0F2F7&background=FF289200&center=true&vCenter=true&repeat=false&random=false&width=158&height=25&lines=About+me" alt="Typing SVG">
+  </a>
+</div>
+</br>
 
 - 📍 I'm Aguinelo and currently I live in Jataí-GO. 
-- 📚 I'm an undergraduate in Computer Science at Federal University of Jataí (UFJ).
+- 🎓 I'm an undergraduate in Computer Science at Federal University of Jataí (UFJ).
 - 🖥️ I'm exploring different areas to find my passion.
+- 📚 At the university I'm studying C, but I'm also studying Python and HTML by my own.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" align="center"> What I'm learning
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width=50px align = "center"> Where to find me
-
-
-<br/>
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif" width="65px" style="margin-right: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=40&duration=1&pause=1&color=E0F2F7&background=FF289200&center=true&vCenter=false&repeat=false&random=false&width=300&height=50&lines=Where+to+find+me" alt="Typing SVG">
+  </a>
+</div>
 
 [![Github](https://img.shields.io/badge/-Github-2b3137?style=for-the-badge&logo=Github&logoColor=#2b3137)](https://www.github.com/AguineloP)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aguinelo/)
@@ -38,15 +34,47 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div style="display: flex; align-items: center;">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="45px" style="margin-right: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=40&duration=1&pause=1&color=E0F2F7&background=FF289200&center=true&vCenter=true&repeat=false&random=false&width=400&height=40&lines=Languages+i'm+learning" alt="Typing SVG">
+  </a>
+</div>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" align="center"> My github statistics:
+</br>
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,html">
+  </a>
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div style="display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" style="margin-right: 20px;">
+  <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=40&duration=1&pause=1&color=E0F2F7&background=FF289200&center=true&vCenter=true&repeat=false&random=false&width=670&height=50&lines=My+Github+statistics+and+contributions" alt="Typing SVG">
+  </a>
+</div>
+
+</br>
+
 <div style="display: flex; align-items: center; justify-content: center;">
   
 [![](https://github-readme-stats.vercel.app/api?username=AguineloP&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/AguineloP)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=AguineloP&theme=tokyonight&hide_border=true)](https://github.com/AguineloP)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Thanks for stopping by, see you next time!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AguineloP/AguineloP/output/github-contribution-grid-snake.svg" />
+
+  </br></br></br>
+</div>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=70&duration=1&pause=1&color=E0F2F7&background=FF289200&center=true&vCenter=true&repeat=false&random=false&width=1350&height=50&lines=Thanks+for+stopping+by.+See+you+next+time!!" alt="Typing SVG"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
+  </a>
   
   <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
