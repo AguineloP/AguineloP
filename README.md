@@ -40,15 +40,25 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=40&duration=1&pause=1&color=E0F2F7&background=FF289200&center=true&vCenter=true&repeat=false&random=false&width=400&height=40&lines=Languages+i'm+learning" alt="Typing SVG">
   </a>
 </div>
-
 </br>
-
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,html">
   </a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div style="display: flex; align-items: center;">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="45px" style="margin-right: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=40&duration=1&pause=1&color=E0F2F7&background=FF289200&center=true&vCenter=true&repeat=false&random=false&width=580&height=40&lines=Check+out+my+university+projects" alt="Typing SVG">
+  </a>
+</div>
+</br>
+
+[![C-AP1](https://img.shields.io/badge/-AP1-2b3137?style=for-the-badge&logo=C&logoColor=blue)](https://www.github.com/AguineloP/AP1)
+[![Empreendedorismo](https://img.shields.io/badge/-AirFood-c4dcf6?style=for-the-badge&logo=Jabber&logoColor=CC0000)](https://github.com/AguineloP/Empreendedorismo)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -65,11 +75,11 @@
   
 [![](https://github-readme-stats.vercel.app/api?username=AguineloP&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/AguineloP)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=AguineloP&theme=tokyonight&hide_border=true)](https://github.com/AguineloP)
+
+</br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AguineloP/AguineloP/output/github-contribution-grid-snake.svg" />
-
-  </br></br></br>
 </div>
 
   <a href="https://git.io/typing-svg">
