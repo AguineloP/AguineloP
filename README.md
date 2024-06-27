@@ -27,10 +27,12 @@
 
 [![Github](https://img.shields.io/badge/-Github-2b3137?style=for-the-badge&logo=Github&logoColor=#2b3137)](https://www.github.com/AguineloP)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aguinelo/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@guinelo/)
+[![Lattes](https://img.shields.io/badge/Lattes-2c2b64?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Im04LjUgMjYuNi00LjMtOWMwLS4yLjEtLjIgMS44LjEgMi44LjYgNC40LjggNyAuOCAzLjQgMCA2LjEtLjYgOC4zLTEuNyAxLjEtLjUgMS44LTEgMi40LTEuNy43LS45LjktMS41LjktMi40YTUgNSAwIDAgMC0uNy0yLjZsLS40LTEuMmMwLS4zIDAtLjMuMi0uMy41IDAgMi44IDIuMiAzLjcgMy41YTcgNyAwIDAgMSAuMyA3LjMgMTEgMTEgMCAwIDEtMyAzLjcgMjMgMjMgMCAwIDEtOSA0LjRjLTIgLjYtNS4zIDEuMy02IDEuM2wtMS4yLTIuMnptMS44IDEtLjctMS41Yy0uOS0xLjctMS4xLTIuMy0xLTIuM2wuMS0uMnYtLjJjLjQtLjIgMC0xLjItLjYtMS43YTEgMSAwIDAgMS0uMy0uNyA2IDYgMCAwIDAtLjctMmwtLjItLjYtLjYtLjEtLjktLjNoLS4xYTE5OS43IDE5OS43IDAgMCAwIDUgOS43em0tMS0xMC01LS43YTExIDExIDAgMCAxLTEtNC4zYy0uMi0yLjkuNS01IDIuMi02LjcgMi44LTMgOS0zLjQgMTUuOS0xIDEuMi41IDEuNy44IDEuNCAxaC0zLjJjLTMtLjMtNS4zLjEtNi41IDEuMS0xLjggMS41LTEuNSA0LjguOCA5LjZsLjYgMS4yYy4xLjIgMCAuNC0uMi40bC01LS42em00LjMgMGgtLjIuMnptLS41LS4xem0tMy4zLS45aC0uMy4yYy4xIDAgLjIgMCAwIDB6bS0yLjItLjMtMi4zLS40Yy0uMyAwLS40IDAtLjUtLjNsLS4xLS4zdi43bDIgLjNjMi43LjMgMy4yLjMuOSAwek0xOC4yIDE1Yy0yLjEtLjQtNC0xLjctNC43LTMuMi0uMy0uOC0uMi0xLjcgMC0yLjMuNC0uNSAxLTEgMS44LTEuMyAxLS40IDMtLjMgNC40LjRhNiA2IDAgMCAxIDMgMi42Yy41IDEuMiAwIDIuNi0xLjIgMy4zYTYgNiAwIDAgMS0zLjMuNXpNMTcgMTRsLS44LS4zIDEuNC42LS42LS4zem0tMS0xYy0uMy0uMS0uOC0uNS0xLS44cy0uNS0uNC0uNS0uNGMwIC4zIDEuNyAxLjcgMiAxLjdsLS41LS40eiIvPjwvc3ZnPg==)](https://lattes.cnpq.br/3391770252514579)
+</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aguinelo-pimenta-65947030a/)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aguinelpbneto1512@gmail.com)
-[![Lattes](https://img.shields.io/badge/Lattes-2c2b64?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Im04LjUgMjYuNi00LjMtOWMwLS4yLjEtLjIgMS44LjEgMi44LjYgNC40LjggNyAuOCAzLjQgMCA2LjEtLjYgOC4zLTEuNyAxLjEtLjUgMS44LTEgMi40LTEuNy43LS45LjktMS41LjktMi40YTUgNSAwIDAgMC0uNy0yLjZsLS40LTEuMmMwLS4zIDAtLjMuMi0uMy41IDAgMi44IDIuMiAzLjcgMy41YTcgNyAwIDAgMSAuMyA3LjMgMTEgMTEgMCAwIDEtMyAzLjcgMjMgMjMgMCAwIDEtOSA0LjRjLTIgLjYtNS4zIDEuMy02IDEuM2wtMS4yLTIuMnptMS44IDEtLjctMS41Yy0uOS0xLjctMS4xLTIuMy0xLTIuM2wuMS0uMnYtLjJjLjQtLjIgMC0xLjItLjYtMS43YTEgMSAwIDAgMS0uMy0uNyA2IDYgMCAwIDAtLjctMmwtLjItLjYtLjYtLjEtLjktLjNoLS4xYTE5OS43IDE5OS43IDAgMCAwIDUgOS43em0tMS0xMC01LS43YTExIDExIDAgMCAxLTEtNC4zYy0uMi0yLjkuNS01IDIuMi02LjcgMi44LTMgOS0zLjQgMTUuOS0xIDEuMi41IDEuNy44IDEuNCAxaC0zLjJjLTMtLjMtNS4zLjEtNi41IDEuMS0xLjggMS41LTEuNSA0LjguOCA5LjZsLjYgMS4yYy4xLjIgMCAuNC0uMi40bC01LS42em00LjMgMGgtLjIuMnptLS41LS4xem0tMy4zLS45aC0uMy4yYy4xIDAgLjIgMCAwIDB6bS0yLjItLjMtMi4zLS40Yy0uMyAwLS40IDAtLjUtLjNsLS4xLS4zdi43bDIgLjNjMi43LjMgMy4yLjMuOSAwek0xOC4yIDE1Yy0yLjEtLjQtNC0xLjctNC43LTMuMi0uMy0uOC0uMi0xLjcgMC0yLjMuNC0uNSAxLTEgMS44LTEuMyAxLS40IDMtLjMgNC40LjRhNiA2IDAgMCAxIDMgMi42Yy41IDEuMiAwIDIuNi0xLjIgMy4zYTYgNiAwIDAgMS0zLjMuNXpNMTcgMTRsLS44LS4zIDEuNC42LS42LS4zem0tMS0xYy0uMy0uMS0uOC0uNS0xLS44cy0uNS0uNC0uNS0uNGMwIC4zIDEuNyAxLjcgMiAxLjdsLS41LS40eiIvPjwvc3ZnPg==)](https://lattes.cnpq.br/3391770252514579)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@guinelo/)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -71,12 +73,11 @@
 
 </br>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  
-[![](https://github-readme-stats.vercel.app/api?username=AguineloP&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/AguineloP)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=AguineloP&theme=tokyonight&hide_border=true)](https://github.com/AguineloP)
+<div align=center>
+    <img width=390 src="https://streak-stats.demolab.com/?user=AguineloP&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width=390 src="https://github-readme-stats-AguineloP.vercel.app/api?username=AguineloP&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
 
-</br>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
