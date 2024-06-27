@@ -74,8 +74,8 @@
 </br>
 
 <div align=center>
-    <img width=390 src="https://streak-stats.demolab.com/?user=AguineloP&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img width=390 src="https://github-readme-stats-AguineloP.vercel.app/api?username=AguineloP&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+    <img width=480 src="https://streak-stats.demolab.com/?user=AguineloP&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width=480 src="https://github-readme-stats.vercel.app/api?username=AguineloP&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
 
 </div>
 
@@ -84,9 +84,7 @@
 </div>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=70&duration=1&pause=1&color=E0F2F7&background=FF289200&center=true&vCenter=true&repeat=false&random=false&width=1350&height=50&lines=Thanks+for+stopping+by.+See+you+next+time!!" alt="Typing SVG"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
-  </a>
-  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=90&duration=2500&pause=1200&color=E0F2F7&background=FF289200&center=true&vCenter=true&random=false&width=1550&height=110&lines=Thanks+for+stopping+by;See+you+next+time!!" alt="Typing SVG" /></a>  
   <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
