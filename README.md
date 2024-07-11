@@ -60,7 +60,7 @@
 </br>
 
 [![C-AP1](https://img.shields.io/badge/-AP1-2b3137?style=for-the-badge&logo=C&logoColor=blue)](https://www.github.com/AguineloP/AP1)
-[![Empreendedorismo](https://img.shields.io/badge/-AirFood-c4dcf6?style=for-the-badge&logo=Jabber&logoColor=CC0000)](https://github.com/AguineloP/Empreendedorismo)
+[![AirFood](https://img.shields.io/badge/-AirFood-c4dcf6?style=for-the-badge&logo=Jabber&logoColor=CC0000)](https://aguinelop.github.io/AirFood/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
