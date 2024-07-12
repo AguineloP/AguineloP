@@ -12,9 +12,9 @@
 </div>
 </br>
 
-- 📍 I'm Aguinelo and currently I live in Jataí-GO. 
+- 📍 My name is Aguinelo and I'm currently living in Jataí-GO. 
 - 🎓 I'm an undergraduate in Computer Science at Federal University of Jataí (UFJ).
-- 🖥️ I'm exploring different areas to find my passion.
+- 🖥️ Always trying to explore different areas to find my passion.
 - 📚 At the university I'm studying C, but I'm also studying Python and HTML by my own.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -84,7 +84,7 @@
 </div>
 
   <a href="https://git.io/typing-svg">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=90&duration=2500&pause=1200&color=E0F2F7&background=FF289200&center=true&vCenter=true&random=false&width=1550&height=110&lines=Thanks+for+stopping+by;See+you+next+time!!" alt="Typing SVG" /></a>  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=90&duration=2500&pause=1200&color=E0F2F7&background=FF289200&center=true&vCenter=true&random=false&width=1550&height=110&lines=Thanks+for+stopping+by!!;See+you+next+time👋" alt="Typing SVG" /></a>  
   <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
