@@ -59,8 +59,8 @@
 </div>
 </br>
 
-[![AP1](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=AP1&theme=react)](https://github.com/AguineloP/AP1)
-[![AirFood](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=AirFood&theme=react)](https://github.com/AguineloP/AirFood)
+[![AP1](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=AP1&theme=react&show=commits)](https://github.com/AguineloP/AP1)
+[![AirFood](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=AirFood&theme=react&show=commits)](https://github.com/AguineloP/AirFood)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
