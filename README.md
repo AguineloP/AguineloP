@@ -59,8 +59,8 @@
 </div>
 </br>
 
-[![C-AP1](https://img.shields.io/badge/-AP1-2b3137?style=for-the-badge&logo=C&logoColor=blue)](https://www.github.com/AguineloP/AP1)
-[![AirFood](https://img.shields.io/badge/-AirFood-c4dcf6?style=for-the-badge&logo=Jabber&logoColor=CC0000)](https://aguinelop.github.io/AirFood/)
+[![AP1](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=AP1&theme=react)](https://github.com/AguineloP/AP1)
+[![AirFood](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=AirFood)](https://github.com/AguineloP/AirFood)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -74,8 +74,8 @@
 </br>
 
 <div align=center>
-    <img width=480 src="https://streak-stats.demolab.com/?user=AguineloP&count_private=true&theme=react&border_radius=10&border_color=00a8ff" alt="streak stats"/>
-    <img width=480 src="https://github-readme-stats.vercel.app/api?username=AguineloP&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+    <img width=500 src="https://streak-stats.demolab.com/?user=AguineloP&count_private=true&theme=react&border_radius=10&border_color=00a8ff" alt="streak stats"/>
+    <img width=500 height=500 src="https://github-readme-stats.vercel.app/api?username=AguineloP&count_private=true&show_icons=true&theme=react&rank_icon=github&hide=contribs&border_radius=10" alt="readme stats"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguineloP&hide_border=false&theme=react&border_radius=10"/>
 </div>
 
