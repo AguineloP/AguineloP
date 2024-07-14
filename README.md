@@ -75,7 +75,7 @@
 
 <div align=center>
     <img width=500 src="https://streak-stats.demolab.com/?user=AguineloP&count_private=true&theme=react&border_radius=10&border_color=00a8ff" alt="streak stats"/>
-    <img width=500 height=500 src="https://github-readme-stats.vercel.app/api?username=AguineloP&count_private=true&show_icons=true&theme=react&rank_icon=github&hide=contribs&border_radius=10" alt="readme stats"/>
+    <img width=500 src="https://github-readme-stats.vercel.app/api?username=AguineloP&count_private=true&show_icons=true&theme=react&rank_icon=github&hide=contribs&border_radius=10" alt="readme stats"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguineloP&hide_border=false&theme=react&border_radius=10"/>
 </div>
 
