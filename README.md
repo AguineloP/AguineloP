@@ -1,9 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=120&duration=3000&pause=1500&color=E0F2F7&background=FF289200&center=true&vCenter=true&random=false&width=1950&height=110&lines=Hello!!;Welcome+to+my+profile!!;My+name+is+Aguinelo;I'm+pursuing+my+bachelor's+degree;My+field+of+study+is+Computer+Science" alt="Typing SVG" /></a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="45px" style="margin-right: 20px;">
   <a href="https://git.io/typing-svg">
@@ -15,8 +11,8 @@
 - 📍 My name is Aguinelo and I'm currently living in Jataí-GO-Brazil. 
 - 🎓 I'm an undergraduate in Computer Science at Federal University of Jataí (UFJ).
 - 🖥️ Always trying to explore different areas to find my passion.
-- 🧠 At the university I'm studying C, but I'm also studying Python and HTML by my own.
-- 📚 I'm a Portuguese native speaker, but I also can speak English and I just started learning Russian.
+- 🧠 At the university I'm studying C, but I'm also studying Python and Fortran by my own.
+- 📚 I'm a Portuguese native speaker, but I also can speak English.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div style="display: flex; align-items: center;">
@@ -46,7 +42,7 @@
 </br>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,html">
+    <img src="https://skillicons.dev/icons?i=c,python,fortran">
   </a>
 </div>
 
@@ -79,15 +75,5 @@
     <img width=480 src="https://github-readme-stats.vercel.app/api?username=AguineloP&count_private=true&show_icons=true&theme=react&rank_icon=github&hide=contribs&border_radius=10" alt="readme stats"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguineloP&hide_border=false&theme=react&border_radius=10"/>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-  <a href="https://git.io/typing-svg">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=90&duration=2500&pause=1200&color=E0F2F7&background=FF289200&center=true&vCenter=true&random=false&width=1550&height=110&lines=Thanks+for+stopping+by!!;See+you+next+time👋" alt="Typing SVG" /></a>  
-  <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
