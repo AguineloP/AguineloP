@@ -58,7 +58,7 @@
 
 [![AP1](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=AP1&theme=react&show=commit)](https://github.com/AguineloP/AP1)
 [![AirFood](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=AirFood&theme=react&show=commit)](https://github.com/AguineloP/AirFood)
-[![Fortran](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=AirFood&theme=react&show=commit)](https://github.com/AguineloP/Fortran)
+[![Fortran](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=Fortran&theme=react&show=commit)](https://github.com/AguineloP/Fortran)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
