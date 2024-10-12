@@ -8,10 +8,11 @@
 </div>
 </br>
 
-- 📍 My name is Aguinelo and I'm currently living in Jataí-GO-Brazil. 
+- 📍 My name is Aguinelo and I'm currently living in Jataí-GO, Brazil. 
 - 🎓 I'm an undergraduate in Computer Science at Federal University of Jataí (UFJ).
 - 🖥️ Always trying to explore different areas to find my passion.
-- 🧠 At the university I'm studying C, but I'm also studying Python and Fortran by my own.
+- 🧠 At the university I'm studying C and Fortran 90, but I'm also studying Python by my own.
+- 🇫 I'm studying Fortran 90 for a scientific project at university, and despite being an old language, I kinda like it.
 - 📚 I'm a Portuguese native speaker, but I also can speak English.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
