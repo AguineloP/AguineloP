@@ -80,13 +80,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1k2lonuwr7i2rtkhi216l0z0a&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1k2lonuwr7i2rtkhi216l0z0a&cover_image=true&theme=default&show_offline=true&background_color=212121&interchange=true&bar_color=1db954&bar_color_cover=false" alt="Spotify Profile">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1k2lonuwr7i2rtkhi216l0z0a&cover_image=true&theme=default&show_offline=true&background_color=212121&interchange=true&bar_color=1db954&bar_color_cover=false" alt="spotify-github-profile">
   </a>
 </div>
-
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
