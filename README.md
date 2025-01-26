@@ -60,6 +60,7 @@
 [![AP1](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=AP1&theme=react&show=commit)](https://github.com/AguineloP/AP1)
 [![AirFood](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=AirFood&theme=react&show=commit)](https://github.com/AguineloP/AirFood)
 [![Fortran](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=Fortran&theme=react&show=commit)](https://github.com/AguineloP/Fortran)
+[![Guará-Nest](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=GuaraNest&theme=react&show=commit)](https://github.com/AguineloP/GuaraNest)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -75,7 +76,17 @@
 <div align=center>
     <img width=480 src="https://streak-stats.demolab.com/?user=AguineloP&count_private=true&theme=react&border_radius=10&border_color=00a8ff" alt="streak stats"/>
     <img width=480 src="https://github-readme-stats.vercel.app/api?username=AguineloP&count_private=true&show_icons=true&theme=react&rank_icon=github&hide=contribs&border_radius=10" alt="readme stats"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguineloP&hide_border=false&theme=react&border_radius=10"/>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1k2lonuwr7i2rtkhi216l0z0a&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1k2lonuwr7i2rtkhi216l0z0a&cover_image=true&theme=default&show_offline=true&background_color=212121&interchange=true&bar_color=1db954&bar_color_cover=false" alt="Spotify Profile">
+  </a>
+</div>
+
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
