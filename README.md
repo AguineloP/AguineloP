@@ -52,12 +52,12 @@
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="65px" style="margin-right: 20px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=40&duration=1&pause=1&color=E0F2F7&background=FF289200&center=true&vCenter=true&repeat=false&random=false&width=580&height=40&lines=Check+out+my+university+projects" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=40&duration=1&pause=1&color=E0F2F7&background=FF289200&center=true&vCenter=true&repeat=false&random=false&width=400&height=40&lines=Check+out+my+projects" alt="Typing SVG">
   </a>
 </div>
 </br>
 
-[![AP1](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=AP1&theme=react&show=commit)](https://github.com/AguineloP/AP1)
+[![Arduino](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=Arduino&theme=react&show=commit)](https://github.com/AguineloP/Arduino)
 [![AirFood](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=AirFood&theme=react&show=commit)](https://github.com/AguineloP/AirFood)
 [![Fortran](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=Fortran&theme=react&show=commit)](https://github.com/AguineloP/Fortran)
 [![Guará-Nest](https://github-readme-stats.vercel.app/api/pin/?username=AguineloP&repo=GuaraNest&theme=react&show=commit)](https://github.com/AguineloP/GuaraNest)
