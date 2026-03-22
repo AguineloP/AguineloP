@@ -40,7 +40,7 @@
 </br>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,fortran">
+    <img src="https://skillicons.dev/icons?i=c,cpp">
   </a>
 </div>
 
